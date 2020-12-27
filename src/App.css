@@ -1,0 +1,43 @@
+.App {
+  margin: auto;
+}
+
+.header-div > h1 {
+  text-align: center;
+  font-weight: bolder;
+  text-shadow: 4px 2px 5px #929191;
+}
+.result-div {
+  width: fit-content;
+  padding: 2%;
+  border-radius: 10%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #c7c4c4;
+  box-shadow: 0px 0px 24px #c7c4c4;
+}
+
+.result-div > h1 {
+  color: #3f51b5;
+  text-shadow: 4px 2px 5px #6f7abd;
+}
+
+.result-div > h4 {
+  text-shadow: 4px 2px 5px #929191;
+}
+
+.header-div {
+  width: fit-content;
+  margin: 0 auto;
+  box-shadow: 10 10 24 rgb(17, 17, 17);
+}
+
+.score-counter {
+  font-weight: bolder;
+  font-size: small;
+  text-align: center;
+}
+
+.start-button {
+  margin: auto;
+}
